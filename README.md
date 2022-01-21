@@ -44,7 +44,7 @@ Acesse o menu Administração > Tipo de Mídias
     - Na primeira adicione: {ALERT.SENDTO}
     - Na segunda adicione: {ALERT.SUBJECT}
     - Na terceira adicione: {ALERT.MESSAGE}
-- Clique em Adicionar para adicionar o tipo de mídia cirado.
+- Clique em Adicionar para adicionar o tipo de mídia.
 
 ![ConfiguracaoZabbix](https://github.com/lalbertoreis/Zabbix-MSTeams/blob/main/img/Configura%C3%A7%C3%A3oZabbix.png)
 
